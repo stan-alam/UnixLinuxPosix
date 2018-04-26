@@ -1,4 +1,4 @@
-##Chap01 Sed Syntax and Basic commands
+## Chap01 Sed Syntax and Basic commands
 
 **Sed stands for Stream editor**
 
@@ -32,5 +32,5 @@ to execute mulitple sed commands use the -e flag
 	/etc/passwd
 
 
-##2. Scripting flow in sed
+## 2. Scripting flow in sed
 
